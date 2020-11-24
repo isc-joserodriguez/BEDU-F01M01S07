@@ -1,8 +1,2 @@
-@import 'colors';
-@import 'fonts';
-
-.blog {
-    background-color: $white;
-    min-width: unset;
-    padding: 5% 10%;
-}
+@import 'mixins';
+@import 'inheritance';
