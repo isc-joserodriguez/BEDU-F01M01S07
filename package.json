@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joanrodriguezhe/sesion07.git"
+    "url": "git+https://github.com/isc-joserodriguez/BEDU-F01M01S07.git"
   },
   "author": "Jose Rodriguez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joanrodriguezhe/sesion07/issues"
+    "url": "https://github.com/isc-joserodriguez/BEDU-F01M01S07/issues"
   },
-  "homepage": "https://github.com/joanrodriguezhe/sesion07#readme"
+  "homepage": "https://github.com/isc-joserodriguez/BEDU-F01M01S07#readme"
 }
